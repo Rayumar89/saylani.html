@@ -1,0 +1,8 @@
+.img1{
+    width: 200px;
+    height: 100px;
+}
+li:hover{
+    text-decoration: underline;
+    color: green;
+}
